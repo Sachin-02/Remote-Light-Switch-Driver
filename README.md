@@ -1,0 +1,5 @@
+This repository contains the code for my Arduino remote light switch driver. 
+
+I decided to create this device during my 1B semester in spring 2020. This was my first online school semester, and I kept running into an issue with the lighting in the room I'd work in. Sometimes the natural light from the window would be enough, other times it wasn't, and it would frequently change throughout the day. This led to me having to get up and flip a light switch much more than I wanted to. I thought it'd be cool if I could turn it on from my desk, so I decided to make that the next project I'd work on. It was also a fun way for me to learn how to use an Arduino and other electronic components. 
+
+The device consists of a 9V battery powering the arduino, a breadboard circuit connecting the Arduino, servo motor, and IR sensor, and a breadboard friendly power source I created by stripping an old phone charger and hot gluing the wires to jumper wires. I attached it to my light switch using sticky tack, and the servo motor rotates to flip my light switch using the volume up or volume down buttons on my remote control.
